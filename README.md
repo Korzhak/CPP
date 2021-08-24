@@ -11,6 +11,8 @@
 
 [TitanicPassengers](https://github.com/Korzhak/CPP/tree/main/TitanicPassengers) - завдання для парсингу списку людей, що були на Титаніку
 
+[TryCatch](https://github.com/Korzhak/CPP/tree/main/TryCatch) - робота з винятками (`exceptions`). Обробка винятків, створення власних винятків.
+
 
 ### Файли:
 
