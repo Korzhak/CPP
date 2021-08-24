@@ -1,5 +1,7 @@
 # Titanic Passengers
 
+Файл з даними для обробки: [titanic_passenger.csv](https://github.com/Korzhak/CPP/blob/main/TitanicPassengers/titanic_passenger.csv)
+
 [Файл в Google Docs](https://docs.google.com/spreadsheets/d/11Qg0nZWwk1jy5oyFIuxeZQEfcE7Dp11JgAgp2a7deqc/edit?usp=sharing)
 
 [Оригінальне завдання на Kaggle](https://www.kaggle.com/c/titanic/)
