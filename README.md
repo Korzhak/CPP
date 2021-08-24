@@ -4,14 +4,14 @@
 
 
 ### Папки:
-[STL](/tree/main/STL) - приклади роботи з основними функціями одноіменної бібліотеки
+[STL](https://github.com/Korzhak/CPP/tree/main/STL) - приклади роботи з основними функціями одноіменної бібліотеки
 
-[StudentsProcessor](/Korzhak/CPP/tree/main/StudentsProcessor) - приклад програми, що обробляє файл зі списком студентів, 
+[StudentsProcessor](https://github.com/Korzhak/CPP/tree/main/StudentsProcessor) - приклад програми, що обробляє файл зі списком студентів, 
 дозволяє іх посортувати та вивести в окремі файли за певними ознаками
 
-[TitanicPassengers](/Korzhak/CPP/tree/main/TitanicPassengers) - завдання для парсингу списку людей, що були на Титаніку
+[TitanicPassengers](https://github.com/Korzhak/CPP/tree/main/TitanicPassengers) - завдання для парсингу списку людей, що були на Титаніку
 
 
 ### Файли:
 
-[GIT.md](/Korzhak/CPP/blob/main/GIT.md) - основні команди для роботи з GIT
+[GIT.md](https://github.com/Korzhak/CPP/blob/main/GIT.md) - основні команди для роботи з GIT
