@@ -13,6 +13,7 @@
 
 [TryCatch](https://github.com/Korzhak/CPP/tree/main/TryCatch) - робота з винятками (`exceptions`). Обробка винятків, створення власних винятків.
 
+[ConsoleExplorer](https://github.com/Korzhak/CPP/tree/main/ConsoleExplorer) - приклад створення класів для роботи з файлами і папками.
 
 ### Файли:
 
